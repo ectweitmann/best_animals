@@ -1,3 +1,3 @@
-Orca whales
-Wolves
-Tigers
+1. Orca whales
+2. Wolves
+3. Tigers
